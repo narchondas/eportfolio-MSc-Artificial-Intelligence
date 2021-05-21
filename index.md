@@ -1,6 +1,4 @@
-## E-Portfolio of   
-
-![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
+## Academic E-Portfolio of   
 
 # Steve Johnson, CISSP, CVP       
 
@@ -13,7 +11,6 @@
 ### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
-
 
 ### University of Essex Learning Experience
 
