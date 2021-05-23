@@ -10,7 +10,7 @@
 
 ### [Professional](https://crypto61.github.io/eportfolio/Professional.md)
 
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+### [Personal](https://github.com/crypto61/eportfolio/Personal.md) 
 
 ### University of Essex Learning Experience
 
