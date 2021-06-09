@@ -21,7 +21,3 @@
 *   [Module 5 Title](http://example.com/)
 
 ---
-
----
-
-Page template forked from [evanca](https://github.com/evanca/quick-portfolio)
