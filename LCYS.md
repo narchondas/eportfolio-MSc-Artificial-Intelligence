@@ -4,14 +4,14 @@
 
 ### As I progress through the units, I will make frequent entries in this portfolio to document my progress and share insights garnered from assigned reading, interaction with my cohorts and completed exercises. In addition to unit summaries, key module essays, milestones or special topics of interest may be posted separately. The links below lead to these summaries and external resources.
 
-## Units 1-3 
+## [Units 1-3](units1-3) 
 
-## Units 4-6
+## [Units 4-6](units4-6)
 
-## Units 7-9
+## [Units 7-9](units7-9)
 
-## Essay
+## [Essay](module_essay)
 
-## Units 10-12
+## [Units 10-12](units10-12)
 
-## Module Project
+## [Module Project](module_project)
