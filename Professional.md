@@ -13,8 +13,9 @@ The major elements of the system is the basic safety message (BSM) which compris
 
 Read more about this and other CV Projects at:
 
-*   [www.theacvpilot.com](www.theacvpilot.com)
-*   https://www.its.dot.gov/pilots/
+[www.theacvpilot.com](www.theacvpilot.com)
+
+www.its.dot.gov/pilots/
 
 ### Thought Leadership
 
