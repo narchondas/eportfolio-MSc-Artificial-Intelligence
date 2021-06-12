@@ -14,13 +14,13 @@ The major elements of the system are:
 *   The basic safety message (BSM) which comprises data on vehicle position, heading, speed, path history, yaw, steering controls, and sensors for braking, turn indicators, lights, windscreen wipers, etc.;
 *   The Infrastructure/geospatial messages which include Signal Phase and Timing (SPaT) and MAP data (detailed intersection configuration and geometry);
 *   And Traveler Information Messages (TIM)s.
-*   There is also a very stringent requirement for assurance that the data received is from a trusted source. This is provided by a security credential management system (SCMS) which uses certificates to establish identity, encryption, message signing etc. This also includes the ability to revoke certificates from devices observed to be misbehaving or suspected of being compromised. 
+*   There is also a very stringent requirement for assurance that the data received is from a trusted source. This is provided by a security credential management system (SCMS) which uses certificates to establish identity, encryption, message signing etc. This also includes the ability to revoke certificates from devices observed to be misbehaving or suspected of being compromised.
 
 Read more about this and other CV Projects at:
 
-[www.theacvpilot.com](www.theacvpilot.com)
+[www.theacvpilot.com](https://www.theacvpilot.com)
 
-[www.its.dot.gov/pilots/](www.its.dot.gov/pilots/)
+[www.its.dot.gov/pilots/](https://www.its.dot.gov/pilots/)
 
 ### Thought Leadership
 
