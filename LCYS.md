@@ -4,7 +4,7 @@
 
 ### As I progress through the units, I will make frequent entries in this portfolio to document my progress and share insights garnered from assigned reading, interaction with my cohorts and completed exercises. In addition to unit summaries, key module essays, milestones or special topics of interest may be posted separately. The links below lead to these summaries and external resources.
 
-## [Units 1-3](units1-3.rtf) 
+## [Units 1-3](units1-3.pdf) 
 
 ## [Units 4-6](units4-6)
 
