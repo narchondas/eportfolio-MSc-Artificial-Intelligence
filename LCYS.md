@@ -6,12 +6,12 @@
 
 ## [Units 1-3](units1-3.pdf) 
 
-## [Units 4-6](units4-6)
+## [Units 4-6](units4-6.pdf)
 
-## [Units 7-9](units7-9)
+## [Units 7-9](units7-9.pdf)
 
-## [Essay](module_essay)
+## [Essay](module_essay.pdf)
 
-## [Units 10-12](units10-12)
+## [Units 10-12](units10-12.pdf)
 
-## [Module Project](module_project)
+## [Module Project](module_project.pdf)
