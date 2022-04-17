@@ -22,6 +22,6 @@
 *   **The Human Factor** "Completed with Merit"
 *   **Secure Systems Architecture** "Completed with Distinction"
 *   [**Research Methods and Professional Practice** "Pending Final Marks"](https://crypto61.github.io/eportfolio/RMPP)
-*   
+*   **Capstone Project and Dissertation** "Running May - Novermber 2022"
 
 ---
