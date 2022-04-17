@@ -14,10 +14,14 @@
 
 ### University of Essex Learning Experience
 
-*   [Module 1 **Launching into Cyber Security**](https://crypto61.github.io/eportfolio/LCYS)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
+*   [**Launching into Cyber Security** "Completed with Merit"](https://crypto61.github.io/eportfolio/LCYS)
+*   Network Security - Credited by evaluation of certification (CISSP)
+*   Principles of Digital Forensics and Cyber Law - Credited by evaluation of certification (CISSP)
+*   **Information Risk Management** "Completed with Distinction" 
+*   **Secure Software Development** "Completed with DIstinction"
+*   **The Human Factor** "Completed with Merit"
+*   **Secure Systems Architecture** "Completed with Distinction"
+*   [**Research Methods and Professional Practice** "Pending Final Marks"](https://crypto61.github.io/eportfolio/RMPP)
+*   
 
 ---
