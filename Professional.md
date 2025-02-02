@@ -1,46 +1,27 @@
-# Professional Bio
+# Nikos Archontas professional bio
 
-### Current Firm/Role
+### Stakeholder Consultation expert, Horizontal coordination of Better Regulation (2024-today)
 
-Associate Vice President / Connected Vehicle Program Manager and National Practice Leader, Cybersecurity
+Screen and validate new initiatives and conduct quality check on stakeholder consultation questionnaires 
 
-Providing technical expertise in program management of Federal research and pilot deployments of connected vehicle technology. Lead author of winning grant application which procured $21 million in funding to design, deploy, test and operate a connected vehicle pilot in Tampa, FL. This project comprises equipping 48 signalized intersections, 1000 privately owned vehicles, 10 transit buses and 9 electric street car trollies with dedicated short range communications (DSRC) in the licensed 5.9 GHz spectrum, to enable vehicle to vehicle (V2V), vehicle to infrastructure (V2I), and vehicle to everything else (V2X) applications. These applications fall in categories of safety, mobility and environmental. Quick examples are:
+Monitor the implementation of the stakeholder consultation guidelines and further develop consultation methodology, ensure the full application of such methodology and procedures in the context of individual initiatives 
 
-*   Safety application: Emergency Electronic Brake Light (EEBL) warning. This application is V2V based and generates a warning alert to equipped motorists when any other equipped vehicle in front of them, going in the same direction and in the same or immediately adjacent lane applies hard braking. This warning appears in the rear view mirror mounted on the windscreen and allows the equipped motorist to avoid the accordion type collisions typically resulting from such hard braking events.
-*   Mobility application: Intelligent Signal (I-Sig). This V2I based application broadcasts Signal Phase and Timing (SPaT) information to vehicles and vehicles broadcast position, heading, velocity and other relevant data to the roadside equipment which interfaces with the traffic signal controller. Collectively this information is used to adjust (extend) green time to facilitate flushing of building congestion. When applied in sync along a corridor, mobility (volume and throughput) is greatly improved. This application also has an environmental benefit of reducing green- house gasses due to less wait time at intersections as it moves vehicles in efficiently formed platoons.
+Analyse and advise on horizontal questions related to stakeholder consultation, evaluation and impact assessment 
 
-The major elements of the system are:
+Contribute to the implementation of the ‘Better Regulation’ agenda, through the definition of relevant methodologies and procedures 
 
-*   The basic safety message (BSM) which comprises data on vehicle position, heading, speed, path history, yaw, steering controls, and sensors for braking, turn indicators, lights, windscreen wipers, etc.;
-*   The Infrastructure/geospatial messages which include Signal Phase and Timing (SPaT) and MAP data (detailed intersection configuration and geometry);
-*   And Traveler Information Messages (TIM)s.
-*   There is also a very stringent requirement for assurance that the data received is from a trusted source. This is provided by a security credential management system (SCMS) which uses certificates to establish identity, encryption, message signing etc. This also includes the ability to revoke certificates from devices observed to be misbehaving or suspected of being compromised.
+Support the Regulatory Scrutiny Board in its quality examination of impact assessments and evaluations 
 
-Read more about this and other CV Projects at:
+Develop and promote 'Better Regulation’ including through outreach activities, support internal training programmes and community of practise
 
-[www.theacvpilot.com](https://www.theacvpilot.com)
+### Policy Officer, Evaluation, Impact assessment & Stakeholder Consultation, Seconded National Expert (2018-2024)
 
-[www.its.dot.gov/pilots/](https://www.its.dot.gov/pilots/)
+Contributing to the implementation of the ‘Better Regulation’ agenda, through the definition of relevant methodologies and procedures. In particular, developing and promoting Commission’s approach in the area of impact assessment, monitoring and evaluation and the Regulatory Fitness and Performance programme (REFIT).
 
-### Thought Leadership
+Supporting the Regulatory Scrutiny Board in its quality examination of impact assessments and evaluations, analysing and advising on stakeholder consultation approaches and processes.
 
-I also provide international thought leadership on cybersecurity for transportation via presentations, lectures, seminars and membership in professional standards bodies. Currently active with:
+Monitoring and implementing the stakeholder consultation guidelines and further development of the consultation methodology. Promoting Better Regulation within and outside the Commission, supporting and coordinating services to develop and implement regulatory tools.
 
-*   National Academies of Sciences, Transportation Research Board, Standing Committee on Protection of Critical Infrastructure, Joint sub-committee on Cybersecurity
-*   National Academies of Sciences, Transportation Research Board, Standing Committee on National Defense Transportation, Chair of cybersecurity working group
-*   IEEE: Multiple technical working groups on wireless security, secure software bootstrapping and IoT security working group (Co-chair)
-*   Society of Automotive Engineers (SAE), technical committee updating standard J2945/5 (security permissions schema for connected vehicle applications)
-*   Intelligent Transportation Society of America, Cybersecurity Committee
-*   Institute of Transportation Engineers, Cybersecurity Committee and subject matter review for new infrastructure elements of connected vehicle equipment standards
-*   OmniAir Consortium (industry council providing device testing and  certification for connected vehicle products.
-*   Lead consultant for data security, privacy and compliance to multiple State Departments of Transportation in the U.S.
-*   University of South Florida, MUMA School of Business, Cybersecurity for Executives, curriculum advisory committee.
-*   Cyber Future Foundation (Non-Profit think tank and advocacy for global cyber-equality), Honor Roll inductee, class of 2018
+Responsible for impact assessments, evaluations and public consultations of DG DIGIT, ESTAT, EMPL, REFORM, AGRI.
 
-### Other Career Highlights
 
-*   11 year's of service in U.S. Army as a cryptographic specialist, including support of Dessert Storm
-*   7 year's technical management consulting for Governmental agencies, and telecommunications carriers.
-*   20+ year's as project manager for large scale projects in intelligent transportation Systems (ITS).
-    *   Design, deployment, integration and testing of secure networks for transportation management centers.
-    *   Systems comprising CCTV, Microwave Vehicle Detection Systems (MVDS), Roadway Weather Information Systems (RWIS), Highway Advisory Radio Systems (HAR), Electronic Tolling Systems, Reversible Lanes (REL) Access Control Systems (ACS) and Regional Traffic Management Centers (RTMC)s
